@@ -1,0 +1,10 @@
+Admiral,30,1
+General,25,1
+Colonel,20,2
+Major,15,2
+Captain,10,2
+Lieutenant,7,2
+Sergeant,5,4
+Corporal,3,6
+Private,1,10
+
